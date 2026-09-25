@@ -1,0 +1,6 @@
+{
+  "name": "Attendance Flow",
+  "description": "Real-time mobile-first classroom attendance application with dynamic phone-to-phone QR scanning and role-based navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
