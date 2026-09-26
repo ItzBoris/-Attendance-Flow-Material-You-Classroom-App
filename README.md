@@ -4,6 +4,18 @@
 
 ---
 
+## 📸 Screenshots
+
+| Teacher Portal | Live Rolling QR | Live Roster |
+|---|---|---|
+| ![Teacher Portal](screenshots/teacher-portal.png) | ![Live QR](screenshots/live-qr.png) | ![Live Roster](screenshots/live-roster.png) |
+
+| Student Hub | Student Scanner | Admin Login |
+|---|---|---|
+| ![Student Hub](screenshots/student-hub.png) | ![Scanner](screenshots/student-scanner.png) | ![Login](screenshots/login-screen.png) |
+
+---
+
 ## 📱 Features
 
 ### 👨‍🏫 Professor / Teacher Portal
